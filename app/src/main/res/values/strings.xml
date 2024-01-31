@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Go Bears</string>
+    <string name="goBearsText">Go Bears !!</string>
+    <string name="contentDescription">This is MSU bear head logo</string>
 </resources>
